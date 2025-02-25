@@ -10,6 +10,6 @@ A Python tool to hide secret messages inside images using steganography. This to
 ## Installation
 1. Clone the repository:
    ```bash
+   git clone https://github.com/frostftw01-1/Steganography_manju.git
+   cd Steganography-manju
    
-git clone https://github.com/frostftw01-1/Steganography_manju.git
-cd Steganography-manju
